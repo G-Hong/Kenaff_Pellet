@@ -93,16 +93,7 @@ We propose converting chemically stored energy in food waste into usable solid f
 
 ## 👩‍🔬 Team
 
-**Hong Jinhwa** (Chemistry, Korea Univ.)
+**Gina Hong** (Chemistry, Korea Univ.)
 
-* Supercomputing Idea Contest, Minister of Science Award (2015)
+**Yewon Han** (Life Sciences, SNU)
 
-**Han Yewon** (Life Sciences, SNU)
-
-* STEAM Creative Research Finalist (2015)
-
-## 📩 Contact
-
-* Email: [ev0lution@naver.com](mailto:ev0lution@naver.com)
-
-> *Submitted for the 2022 Social Problem-Solving Business Idea Contest*

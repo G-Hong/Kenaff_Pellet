@@ -101,6 +101,6 @@ We propose converting chemically stored energy in food waste into usable solid f
 
 ## 👩‍🔬 Team
 
-**Gina Hong** (Chemistry, Korea Univ.)
+**Gina Hong(Team Leader)** (Chemistry, Korea Univ.)
 
 **Yewon Han** (Life Sciences, SNU)

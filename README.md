@@ -1,5 +1,13 @@
 # 🌱 URAM: Food Waste-Based Fuel Pellet Startup
 
+## 🌟 Achievements
+
+* “2022 Social Problem-Solving Business Idea Contest” – 4th Place (Awarded: 2,000,000 KRW)
+* “2022 LINC 3.0 Startup Club” – Startup fund support (2,000,000 KRW)
+* “2022 Science Belt Startup Growth Support Program (Cohort 2)” – Selected as early-stage startup (Support equivalent to 20,000,000 KRW)
+* Patent provisional application: *Manufacturing method for solid fuel pellets using food waste resources and kenaf* (2022)
+
+
 ## 🧠 Overview
 
 URAM is a student-founded pre-startup team from Korea University and Seoul National University, proposing a sustainable business to address food waste disposal and energy dependency by converting food waste into solid fuel pellets using fast-growing kenaf plants.
@@ -65,7 +73,7 @@ We propose converting chemically stored energy in food waste into usable solid f
 | ---------------- | ---------- | -------------------------------------------------- |
 | Biz Idea Contest | 2022.09–10 | Submission & mentoring                             |
 | MVP Dev          | 2022.11–12 | 1st prototype & patent filing                      |
-| Gov Support Prep | 2023.01–03 | Finalize product & apply for Youth Startup Program |
+| Gov Support Prep | 2023.01—03 | Finalize product & apply for Youth Startup Program |
 
 ## 📊 Budget Plan (Total: 10 million KRW)
 
@@ -96,4 +104,3 @@ We propose converting chemically stored energy in food waste into usable solid f
 **Gina Hong** (Chemistry, Korea Univ.)
 
 **Yewon Han** (Life Sciences, SNU)
-

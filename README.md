@@ -1,12 +1,10 @@
 # 🌱 URAM: Food Waste-Based Fuel Pellet Startup
 
 ## 🌟 Achievements
-
-* “2022 Social Problem-Solving Business Idea Contest” – 4th Place (Awarded: 2,000,000 KRW)
-* “2022 LINC 3.0 Startup Club” – Startup fund support (2,000,000 KRW)
-* “2022 Science Belt Startup Growth Support Program (Cohort 2)” – Selected as early-stage startup (Support equivalent to 20,000,000 KRW)
-* Patent provisional application: *Manufacturing method for solid fuel pellets using food waste resources and kenaf* (2022)
-
+- “2022 Social Problem-Solving Business Idea Contest” – 4th Place (Awarded: 2,000,000 KRW ≈ ~$1,500 USD)
+- “2022 LINC 3.0 Startup Club” – Startup fund support (2,000,000 KRW ≈ ~$1,500 USD)
+- “2022 Science Belt Startup Growth Support Program (Cohort 2)” – Selected as early-stage startup (Support equivalent to 20,000,000 KRW ≈ ~$15,000 USD)
+- Patent provisional application: *Manufacturing method for solid fuel pellets using food waste resources and kenaf* (2022)
 
 ## 🧠 Overview
 

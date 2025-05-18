@@ -1,4 +1,4 @@
-# 🌱 URAM: Food Waste-Based Fuel Pellet Startup
+# 🌱 URAM: Food Waste-Based Fuel Pellet Startup //RE100내용 추가하기
 
 ## 🌟 Achievements
 - “2022 Social Problem-Solving Business Idea Contest” – 4th Place (Awarded: 2,000,000 KRW ≈ ~$1,500 USD)
